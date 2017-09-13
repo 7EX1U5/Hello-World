@@ -1,23 +1,3 @@
-# Include <iostream>
-# Include <windows.h>
-# Include <conio.h>
-# Include <string>
+# My First Project
 
-using namespace std;
-
-int Main()
-
-{
-
-//Main function
-
-  int input;
-  
-  cout << "Please enter a number, letter or word: ";
-  cin >> input;
-  
-  cout << "You have entered " << input;
-  
- Return 0;
- 
- }
+Whatever notes that require reading will be posted here!
